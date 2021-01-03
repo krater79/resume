@@ -27,7 +27,7 @@ body{margin: 0 ;
 }	
 li{	list-style-type: none;}
 .menu {    
-/* 	border    : 1px solid #000000; */
+	/* border    : 1px solid #000000; */
 	margin    : 0 auto;
 	padding-inline-start: 0;
 	display: flex;
