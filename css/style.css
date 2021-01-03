@@ -31,7 +31,7 @@ li{	list-style-type: none;}
 	margin    : 0 auto;
 	padding-inline-start: 0;
 	display: flex;
-	/* flex: 0 1 33.333; */
+	flex: 0 1 33.333;
 	align-items: center;
 	justify-content: space-between;
 	font-size: 1em;
@@ -52,7 +52,7 @@ a :hover, .bold{font-size: 24pt ; font-weight: 900;}
 @keyframes run{
 	20%,40%{opacity: 1; transform: translateX(0) scale(1,1);}
 	10%,30%,50%{transform:  translateX(0) scale(1.1,1.1);}
-	100%{opacity: 0; transform: translateX(-1000px);}
+	100%{opacity: 0; transform: translateX(1000px);}
 }
 
 .next{
