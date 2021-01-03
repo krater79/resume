@@ -47,7 +47,7 @@ a :hover, .bold{font-size: 24pt ; font-weight: 900;}
 	100%{opacity: 0; transform: translateX(-1000px);}
 }
 
-.next{al
+.next{
 	background: url(../img/danger3.jpg) no-repeat;
 	/* display: block; */
 	width: 399px;
